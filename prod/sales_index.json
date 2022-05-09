@@ -51,6 +51,29 @@
   {
       "chainId": 1,
       "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+      "saleId": "0x2fda222e7196cc419ab540c7053137ce57e382a5e498d5a9e626b7af7d922652",
+      "saleName": "oldtora testnet (ottt)",
+      "logo": "https://pbs.twimg.com/profile_images/1523641841664593922/cSECceU9_400x400.jpg",
+      "favicon": "https://pbs.twimg.com/profile_images/1458467580017061889/lscNZUzK_400x400.jpg",
+      "projectWebsite": "https://oldtora.medium.com",
+      "saleDescription": "Gonna REKT? LMAO",
+      "access": {
+        "limitToRegions": ["RU", "BG", "CN", "US"]      },
+      "socials": {
+        "twitter": "https://twitter.com/oldtoraeth",
+        "telegram": "https://t.me/howtorekt"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://randstorageprod.blob.core.windows.net/sale/SAFT%20Rand%20Presale%202%20Angels%20(TokenSoft).docx-2.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 1,
+      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
       "saleId": "0x076e547a7f500faec9d7c4350d94233243cdbd3f900224a36668b34491d54b20",
       "saleName": "Quetzalcoatl",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
