@@ -58,7 +58,8 @@
       "projectWebsite": "https://oldtora.medium.com",
       "saleDescription": "Gonna REKT? LMAO",
       "access": {
-        "limitToRegions": ["RU", "BG", "CN", "US"]      },
+        "limitToRegions": ["RU", "BG", "CN", "US"]      
+      },
       "socials": {
         "twitter": "https://twitter.com/oldtoraeth",
         "telegram": "https://t.me/howtorekt"
